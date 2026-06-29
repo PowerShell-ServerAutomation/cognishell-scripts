@@ -1,0 +1,1 @@
+Write-Output "Secret check: $env:TEST_SECRET_VALUE"
